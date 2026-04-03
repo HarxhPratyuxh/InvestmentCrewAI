@@ -28,7 +28,7 @@ Built to showcase modern **Agentic AI workflows**, reliable output generation, a
 ## 🛠️ Tech Stack
 
 * **Language:** Python
-* **AI & Orchestration:** CrewAI, LangChain, Pydantic
+* **AI & Orchestration:** CrewAI, Pydantic
 * **Models & Search:** Google Gemini, Groq, Exa AI Search API
 * **Data Connectors:** yFinance
 * **Frontend:** Streamlit
