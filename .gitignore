@@ -1,0 +1,30 @@
+# Built environment
+venv/
+env/
+.env
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Databases and outputs
+*.db
+*.sqlite3
+task_outputs/
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+
+# Scratch and Generator Prompts
+project_rebuild_prompt.md.resolved
+*.resolved
+test_*.py
+
+# Personal Notes
+INTERVIEW_REFERENCE.md
