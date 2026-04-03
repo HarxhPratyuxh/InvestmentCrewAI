@@ -1,6 +1,11 @@
 # 📈 AI Multi-Agent Investment Advisor
 
 <p align="center">
+  <img src="InvestmentCrewAIDemo.gif" alt="Investment Crew AI Demo" width="800">
+</p>
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python Version">
   <img src="https://img.shields.io/badge/CrewAI-Orchestration-orange.svg" alt="CrewAI">
   <img src="https://img.shields.io/badge/FastAPI-Backend-green.svg" alt="FastAPI">
